@@ -1,0 +1,11 @@
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\Presentation\Domain\obj\Debug\net8.0\ref\Domain.dll
